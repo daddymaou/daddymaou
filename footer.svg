@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" fill="none">
+  <rect width="900" height="160" fill="transparent"/>
+  
+  <text x="450" y="40" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#999999" letter-spacing="2">
+    FOCUS
+  </text>
+
+  <rect x="90" y="70" width="170" height="55" rx="12" fill="#FFFFFF" stroke="#E5E5E1" stroke-width="1"/>
+  <text x="175" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#333">Web Development</text>
+
+  <rect x="280" y="70" width="160" height="55" rx="12" fill="#FFFFFF" stroke="#E5E5E1" stroke-width="1"/>
+  <text x="360" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#333">UI / UX Design</text>
+
+  <rect x="460" y="70" width="160" height="55" rx="12" fill="#FFFFFF" stroke="#E5E5E1" stroke-width="1"/>
+  <text x="540" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#333">Creative Dev</text>
+
+  <rect x="640" y="70" width="170" height="55" rx="12" fill="#FFFFFF" stroke="#E5E5E1" stroke-width="1"/>
+  <text x="725" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#333">Automation</text>
+</svg>

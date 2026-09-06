@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" fill="none">
+  <rect width="900" height="120" fill="transparent"/>
+  
+  <line x1="300" y1="30" x2="600" y2="30" stroke="#D8D8D4" stroke-width="1"/>
+
+  <text x="450" y="70" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#222222" letter-spacing="1">
+    Code. Automate. Iterate.
+  </text>
+
+  <text x="450" y="100" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#999999">
+    © 2026 ᗰᗩOᑌ
+  </text>
+</svg>
