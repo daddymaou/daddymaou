@@ -1,34 +1,34 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Header" />
+<img src="./header.svg" width="100%" alt="Header" />
 
 <br/>
 
-<img src="./assets/status.svg" width="100%" alt="Status" />
+<img src="./status.svg" width="100%" alt="Status" />
 
 <br/>
 
-<img src="./assets/about.svg" width="100%" alt="About" />
+<img src="./about.svg" width="100%" alt="About" />
 
 <br/>
 
-<img src="./assets/capabilities.svg" width="100%" alt="Capabilities" />
+<img src="./capabilities.svg" width="100%" alt="Capabilities" />
 
 <br/>
 
-<img src="./assets/focus.svg" width="100%" alt="Focus" />
+<img src="./focus.svg" width="100%" alt="Focus" />
 
 <br/>
 
-<img src="./assets/presence.svg" width="100%" alt="Presence" />
+<img src="./presence.svg" width="100%" alt="Presence" />
 
 <br/>
 
-<img src="./assets/dock.svg" width="100%" alt="Connect" />
+<img src="./dock.svg" width="100%" alt="Connect" />
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Footer" />
+<img src="./footer.svg" width="100%" alt="Footer" />
 
 <br/><br/>
 
