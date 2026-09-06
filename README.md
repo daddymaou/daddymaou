@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=9BB8E6&center=true&vCenter=true&width=800&lines=ᗰᗩOᑌ.;Code.+Automate.+Iterate.;Building+digital+experiences;Human+%26+distinct+interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=9BB8E6&center=true&vCenter=true&width=900&lines=ᗰᗩOᑌ.;Code.+Automate.+Iterate.;Human+%26+Distinct+Interfaces;Digital+Experiences" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://files.catbox.moe/n27oqg.jpg" width="150" style="border-radius:50%; border: 4px solid #9BB8E6; box-shadow: 0 0 20px #9BB8E6;" />
+<img src="https://files.catbox.moe/n27oqg.jpg" width="160" style="border-radius: 50%; border: 3px solid #9BB8E6; box-shadow: 0 0 25px rgba(155, 184, 230, 0.4);" />
 
 <br><br>
 
@@ -24,41 +24,42 @@
 
 ### About
 
-With **4 years** of experience, I craft interfaces that feel **human and distinct** — avoiding trends and focusing on substance.
+I build digital experiences that feel **human and distinct**.  
+4 years of crafting clean interfaces, practical systems, and automation that actually works.
 
-My work lives at the intersection of **code, design, and automation**.
+My work sits at the intersection of **code, design, and systems thinking**.
 
-Based in **Nigeria**. Open to global collaboration.
+Based in **Nigeria**. Available for global collaboration.
 
 ---
 
-### Tech Arsenal
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,django,git,github,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,django,git,github,linux,vscode,figma&perline=8" />
 </p>
 
 ---
 
-### GitHub Analytics
+### Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daddymaou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9BB8E6&icon_color=9BB8E6&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daddymaou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9BB8E6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daddymaou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9BB8E6&icon_color=9BB8E6&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daddymaou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9BB8E6" height="165" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daddymaou&theme=tokyonight&hide_border=true&background=0D1117&ring=9BB8E6&fire=9BB8E6&currStreakLabel=9BB8E6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daddymaou&theme=tokyonight&hide_border=true&background=0D1117&ring=9BB8E6&fire=9BB8E6&currStreakLabel=9BB8E6" width="480" />
 </div>
 
 ---
 
-### Activity Graph
+### Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daddymaou&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daddymaou&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=9BB8E6&line=9BB8E6&point=9BB8E6" />
 </div>
 
 ---
@@ -66,6 +67,8 @@ Based in **Nigeria**. Open to global collaboration.
 <div align="center">
 
 ### Code. Automate. Iterate.
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=daddymaou&color=9BB8E6&style=for-the-badge&label=Profile+Views" />
 
