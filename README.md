@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Code.+Automate.+Iterate.;Human+%26+distinct+interfaces;Clean+design+%2B+practical+functionality" alt="Typing SVG" />
+
+<br/>
+
 <img src="./status.svg" width="100%" alt="Status" />
 
 <br/>
