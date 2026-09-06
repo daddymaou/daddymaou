@@ -12,7 +12,6 @@
 
 <br/>
 
-<img src="./about.svg" width="100%" alt="About" />
 
 <br/>
 
