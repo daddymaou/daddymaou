@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <rect width="900" height="200" fill="#F8F8F8"/>
+  
+  <!-- Label -->
+  <text x="450" y="40" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#999" letter-spacing="2">ABOUT</text>
+  
+  <!-- Main text -->
+  <text x="450" y="85" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="17" fill="#222">I build digital experiences that feel human and distinct.</text>
+  
+  <!-- Secondary text -->
+  <text x="450" y="115" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#666">Clean design · Practical functionality · Quiet confidence</text>
+  
+  <!-- Typing line -->
+  <text x="450" y="160" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#888" letter-spacing="1">Code. Automate. Iterate.</text>
+</svg>
