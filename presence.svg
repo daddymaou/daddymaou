@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <rect width="900" height="200" fill="#F8F8F8"/>
+  <text x="450" y="95" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="600" fill="#111">ᗰᗩOᑌ.</text>
+  <text x="450" y="140" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#777" letter-spacing="4">CODE  ·  AUTOMATE  ·  ITERATE</text>
+  <line x1="340" y1="165" x2="560" y2="165" stroke="#CCC" stroke-width="1"/>
+</svg>
