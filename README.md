@@ -6,5 +6,5 @@
 
 
 <p align="center">
-<img src="https://media4.giphy.com/media/SaSAUwiGPsPtswfPRk/giphy.gif" width="150">
+<img src="https://media4.giphy.com/media/SaSAUwiGPsPtswfPRk/giphy.gif" width="80">
 </p>
